@@ -10,17 +10,17 @@
 
 ### Control :
 GamePad :
-  Menu :
-    DPad : Selection
-    A : Validate
-    B : Return
-  Lobby :
-    Star : Add a new player / Launch game
-    DPad : Switch Vehicule
-  Race : 
-    RB : Accelration
-    Left Thumbstick : Steer
-    Start : Pause
+*  Menu :
+*    DPad : Selection
+*    A : Validate
+*    B : Return
+*  Lobby :
+*    Start : Add a new player / Launch game
+*    DPad : Switch Vehicule
+*  Race : 
+*    RB : Accelration
+*    Left Thumbstick : Steer
+*    Start : Pause
     
 Keyboard (not recommended) :
   Lobby :
