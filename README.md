@@ -8,6 +8,10 @@
 * Launch the exe.
 * Enjoy!
 
+Action | GamePad | KeyBoard(not recommended)
+-------|---------|---------------------------
+Menuing : | -|-
+
 ### Control :
 GamePad :</br>
   Menu :</br>
