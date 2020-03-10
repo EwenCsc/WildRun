@@ -1,14 +1,14 @@
 # WildRun
 
-####WildRun is a arcade racing game heavily inspired from Star Wars ep1 racer. 
+#### WildRun is a arcade racing game heavily inspired from Star Wars ep1 racer. 
 
-###Instalation :
-1) Download the Build.rar.
-2) Unzip it where you want.
-3) Launch the exe.
-4) Enjoy!
+### Instalation :
+* Download the Build.rar.
+* Unzip it where you want.
+* Launch the exe.
+* Enjoy!
 
-###Control :
+### Control :
 GamePad :
   Menu :
     DPad : Selection
