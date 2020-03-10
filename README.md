@@ -8,30 +8,25 @@
 * Launch the exe.
 * Enjoy!
 
+### Control :
+
 Action | GamePad | KeyBoard(not recommended)
 -------|---------|---------------------------
-Menuing : | -|-
+Menuing : | |
+Selection : | DPad | Mouse
+Validation : | A Button | Left Click
+Return : | B Button |
+---------|----------|----------------
+Loby : ||
+Add player / launch Game : | Start | Enter
+Switch Vehicule : | Horizontal Dpad | QD
+------------------|-----------------|----
+Race : ||
+Acceleration : | RB | Z
+Brake : | B Button | S
+Steering : | Left ThumbStick | QD
+Pause : | Start |
 
-### Control :
-GamePad :</br>
-  Menu :</br>
-    DPad : Selection</br>
-    A : Validate</br>
-    B : Return</br>
-  Lobby :</br>
-    Start : Add a new player / Launch game</br>
-    DPad : Switch Vehicule</br>
-  Race : </br>
-    RB : Accelration</br>
-    Left Thumbstick : Steer</br>
-    Start : Pause</br>
-    </br>
-Keyboard (not recommended) :</br>
-  Lobby :</br>
-    Enter : Add a new player / Launch game</br>
-    QD : Switch Vehicule</br>
-   Race :</br>
-    ZQSD : Direction</br>
 </br>
 It is played rather with the controller and can be played in local multiplayer up to 4 players.
 Wildrun is a group project completed in just over 6 weeks.
