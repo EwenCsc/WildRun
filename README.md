@@ -9,26 +9,26 @@
 * Enjoy!
 
 ### Control :
-GamePad :
-*  Menu :
-*    DPad : Selection
-*    A : Validate
-*    B : Return
-*  Lobby :
-*    Start : Add a new player / Launch game
-*    DPad : Switch Vehicule
-*  Race : 
-*    RB : Accelration
-*    Left Thumbstick : Steer
-*    Start : Pause
-    
-Keyboard (not recommended) :
-  Lobby :
-    Enter : Add a new player / Launch game
-    QD : Switch Vehicule
-   Race :
-    ZQSD : Direction
-
+GamePad :</br>
+  Menu :</br>
+    DPad : Selection</br>
+    A : Validate</br>
+    B : Return</br>
+  Lobby :</br>
+    Start : Add a new player / Launch game</br>
+    DPad : Switch Vehicule</br>
+  Race : </br>
+    RB : Accelration</br>
+    Left Thumbstick : Steer</br>
+    Start : Pause</br>
+    </br>
+Keyboard (not recommended) :</br>
+  Lobby :</br>
+    Enter : Add a new player / Launch game</br>
+    QD : Switch Vehicule</br>
+   Race :</br>
+    ZQSD : Direction</br>
+</br>
 It is played rather with the controller and can be played in local multiplayer up to 4 players.
 Wildrun is a group project completed in just over 6 weeks.
 The group was composed of 4 Artists and 6 Progs.
