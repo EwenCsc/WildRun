@@ -3,13 +3,9 @@
 #### WildRun is a arcade racing game heavily inspired from Star Wars ep1 racer. 
 
 ### Description :
-It is played rather with the controller and can be played in local multiplayer up to 4 players.
-Wildrun is a group project completed in just over 6 weeks.
-The group was composed of 4 Artists and 6 Progs.
-This game was featured at the PGW 2019 on the Made in France stand.
-
-In this project I developed the customization of the vehicles, the management of the race (laps, ranks, victory, 
-instantiation of vehicles ...) and I also touched on lobby and input management.
+WildRun is a team project developed in 8 weeks in context of school project. We were nine to work on it, 6 Devs and 3 Artists. The game was developed with Unity Engine.
+The game can be play up to 4 players in local split screen.
+This game was featured on the "Made in France" stand at the PGW(Paris Games Week) 2019.
 
 ### Instalation :
 * Download the Build.rar.
