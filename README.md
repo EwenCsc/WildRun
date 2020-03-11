@@ -1,6 +1,6 @@
 
 
-# WildRun <img src="ReadMe_Images/wildrun_visuel_240px-300px_01.jpg" width="250" align="right">
+# WildRun <img src="ReadMe_Images/wildrun_visuel_240px-300px_01.jpg" align="right">
 
 #### WildRun is a arcade racing game heavily inspired from Star Wars ep1 racer. 
 
@@ -53,3 +53,5 @@ Acceleration : | RB | Z
 Brake : | B Button | S
 Steering : | Left ThumbStick | QD
 Pause : | Start |
+
+# WildRun <img src="ReadMe_Images/wildrun_banniere_1200px-1200px_02.jpg" width="500" align="center">
