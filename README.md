@@ -10,7 +10,7 @@
 
 ### Control :
 
-Action | GamePad | KeyBoard(not recommended)
+Action | GamePad | KeyBoard (not recommended)
 -------|---------|---------------------------
 Menuing : | |
 Selection : | DPad | Mouse
