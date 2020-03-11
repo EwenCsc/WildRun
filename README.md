@@ -1,6 +1,6 @@
-<img src="ReadMe_Images/Wildrun_logo_240px-300px.png" width="250" text-align:center >
 
-# WildRun
+
+# WildRun <img src="ReadMe_Images/wildrun_visuel_240px-300px_01.jpg" width="250" align="right">
 
 #### WildRun is a arcade racing game heavily inspired from Star Wars ep1 racer. 
 
