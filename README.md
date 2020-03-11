@@ -2,6 +2,8 @@
 
 #### WildRun is a arcade racing game heavily inspired from Star Wars ep1 racer. 
 
+### [Trailer](https://www.youtube.com/watch?v=8JvDEg9El4s)
+
 ### Description :
 On this game, you can build your own vehicule with unique visuals to beat your oppenents on a terrible and desertic track.
 The game can be play up to 4 players in local split screen.
