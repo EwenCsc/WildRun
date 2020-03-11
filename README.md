@@ -11,12 +11,10 @@
 ### Control :
 
 Action | GamePad | KeyBoard(not recommended)
-||
 Menuing : | |
 Selection : | DPad | Mouse
 Validation : | A Button | Left Click
 Return : | B Button |
-||
 Loby : ||
 Add player / launch Game : | Start | Enter
 Switch Vehicule : | Horizontal Dpad | QD
