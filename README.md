@@ -12,9 +12,9 @@ It is a team project developed in 8 weeks in context of school project. We were 
 
 * [Ewen Cossec](https://github.com/EwenCsc)
 * [Jason Espinasse](https://github.com/SwatX18)
-* Gaël Garnier
+* [Gaël Garnier](https://bitbucket.org/Hadriax/)
 * [Adrien Georges--Lexellent](https://github.com/geolex)
-* Quentin Marchant
+* [Quentin Marchant](https://github.com/KrimsonNirael)
 * [Maxence Valvason](https://github.com/MaxValvason)
 
 </br>
