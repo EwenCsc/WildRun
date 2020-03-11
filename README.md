@@ -14,7 +14,9 @@ It is a team project developed in 8 weeks in context of school project. We were 
 * [Adrien Georges--Lexellent](https://github.com/geolex)
 * Quentin Marchant
 * [Maxence Valvason](https://github.com/MaxValvason)
+
 </br>
+
 * Kilian Garnier
 * [Corentin Schwedt](https://www.artstation.com/frozz_tiz)
 * [Aude Verquin](https://www.artstation.com/averquin)
