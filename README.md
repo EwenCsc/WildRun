@@ -8,16 +8,16 @@ The game can be play up to 4 players in local split screen.
 
 It is a team project developed in 8 weeks in context of school project. We were nine to work on it, 6 Devs and 3 Artists.
 
-* Ewen Cossec : https://github.com/EwenCsc
-* Jason Espinasse : https://github.com/SwatX18
+* [Ewen Cossec](https://github.com/EwenCsc)
+* [Jason Espinasse](https://github.com/SwatX18
 * Gaël Garnier
-* Adrien Georges--Lexenlent
+* [Adrien Georges--Lexelen](https://github.com/geolex)
 * Quentin Marchant
-* Maxence Valvason
+* [Maxence Valvason](https://github.com/MaxValvason)
 </br>
 * Kilian Garnier
-* Corentin Schwedt : https://www.artstation.com/frozz_tiz
-* Aude Verquin : https://www.artstation.com/averquin
+* [Corentin Schwedt](https://www.artstation.com/frozz_tiz)
+* [Aude Verquin](https://www.artstation.com/averquin)
 
 This game was featured on the "Made in France" stand at the PGW(Paris Games Week) 2019.
 
